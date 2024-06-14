@@ -1,3 +1,3 @@
 # ObjectToWhiteScreen
 
-You need an model to ditect plus in the screen 
+You need an model to detect plus in the screen in onnx format
